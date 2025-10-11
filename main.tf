@@ -1,5 +1,5 @@
 provider "google" {
-    project = "emerald-spring-465406-s1"
+    project = "terraform-project-470306"
     region = "us-central1"
 }
 
