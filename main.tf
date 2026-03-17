@@ -1,5 +1,5 @@
 provider "google" {
-    project = "terraform-project-470306"
+    project = "spiritual-pride-484905-r1"
     region = "us-central1"
 }
 
